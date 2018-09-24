@@ -1,0 +1,8 @@
+# Projek UTS Pemrograman Web #
+
+NIM     : 16090075
+Nama    : Fredy Nur Apriyanto
+Kelas   : 4C
+Prodi   : D4 Teknik Informatika
+
+# salam coder #
